@@ -166,6 +166,7 @@ GenericName=${APP_DESCRIPTION}
 Comment=Revolutionary new tools for editing, visual effects, color correction and professional audio post production, all in a single application!
 Exec=/app/bin/resolve.sh %U
 Icon=${APP_ID}
+StartupWMClass=resolve
 Terminal=false
 MimeType=application/x-resolveproj;
 StartupNotify=true
