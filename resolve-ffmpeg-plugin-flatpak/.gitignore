@@ -1,0 +1,7 @@
+.actrc
+.build-dir
+.idea
+venv
+.repo
+.flatpak-builder
+resolve.zip
